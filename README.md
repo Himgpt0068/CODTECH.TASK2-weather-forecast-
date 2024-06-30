@@ -50,5 +50,5 @@ Mentor: G.SRAVANI
 * It will not accept empty input.
 * it will give you  alert if city name not matched with api  data.
 
-   <img src="" width="100%">
-
+   <img src="https://github.com/Himgpt0068/CODTECH.TASK2/blob/main/Screenshot%20(177).png?raw=true" width="100%">
+<img src="" width="100%">
